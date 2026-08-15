@@ -1,10 +1,10 @@
 # one-day-syntax
 
-Light syntax theme with a clean, modern look. Designed to pair with [one-day-ui](https://github.com/asiloisad/pulsar-one-day-ui).
+Light syntax theme with a clean, modern look. Designed to pair with [one-day-ui](https://github.com/asiloisad-pulsar/one-day-ui).
 
-![view-1](https://github.com/asiloisad/pulsar-one-day-ui/blob/master/assets/view-1.png?raw=true)
+![view-1](https://github.com/asiloisad-pulsar/one-day-ui/blob/master/assets/view-1.png?raw=true)
 
-![view-2](https://github.com/asiloisad/pulsar-one-day-ui/blob/master/assets/view-2.png?raw=true)
+![view-2](https://github.com/asiloisad-pulsar/one-day-ui/blob/master/assets/view-2.png?raw=true)
 
 Fork of [one-light-syntax](https://github.com/atom/one-light-syntax).
 
